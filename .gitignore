@@ -1,0 +1,8 @@
+.venv/
+.deepagent_sandbox_workspace/
+__pycache__/
+*.py[cod]
+.env
+*.egg-info/
+dist/
+build/
