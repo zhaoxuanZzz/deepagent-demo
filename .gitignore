@@ -1,5 +1,6 @@
 .venv/
 .deepagent_sandbox_workspace/
+.agent_docker_workspace/
 __pycache__/
 *.py[cod]
 .env
